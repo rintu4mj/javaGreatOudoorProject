@@ -1,5 +1,5 @@
 package model;
-//stores address of retailers
+//stores address of retailers address
 import java.io.Serializable;
 
 public class Address implements Serializable {
